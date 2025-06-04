@@ -1,0 +1,251 @@
+age,heart_rate,blood_pressure,temperature,respiratory_rate,symptom,triage_level
+32,64,115,38.2,21,Shortness of Breath,High
+74,88,118,37.9,21,Shortness of Breath,High
+44,65,132,39.0,13,Headache,Low
+34,85,128,38.0,15,Headache,Low
+78,127,158,36.6,22,Cough,High
+22,120,109,39.1,20,Headache,High
+38,83,141,38.2,18,Fatigue,Low
+58,80,138,36.8,21,Fatigue,Low
+43,96,146,39.5,24,Headache,High
+46,112,117,38.6,20,Fatigue,High
+78,88,153,37.5,19,Fatigue,High
+35,128,108,40.0,16,Fatigue,High
+68,102,158,36.9,17,Cough,High
+37,91,129,39.5,15,Nausea,High
+24,125,134,39.2,25,Cough,High
+48,82,133,40.3,27,Fever,High
+52,121,100,37.9,15,Cough,High
+51,83,137,38.7,25,Headache,Low
+38,69,138,37.7,15,Fatigue,Low
+42,121,128,40.2,26,Fever,High
+24,105,127,40.0,13,Fatigue,High
+48,99,135,36.6,20,Fever,Medium
+60,108,158,40.4,23,Fatigue,High
+49,116,109,39.7,15,Headache,High
+27,75,141,40.4,28,Nausea,High
+21,105,123,37.2,27,Headache,Low
+79,112,117,39.9,26,Headache,High
+75,123,148,36.6,18,Fatigue,High
+69,89,100,37.2,13,Fatigue,Low
+47,119,130,37.6,17,Nausea,High
+77,62,117,38.9,21,Cough,Medium
+49,64,142,40.4,30,Fatigue,High
+39,86,144,36.9,17,Fatigue,Low
+35,113,106,36.3,29,Headache,High
+75,118,122,36.5,25,Fever,High
+80,112,132,37.6,18,Fatigue,High
+69,79,107,40.0,12,Chest Pain,High
+75,130,157,39.4,14,Chest Pain,High
+68,106,121,40.4,21,Nausea,High
+57,102,134,40.3,13,Fatigue,High
+71,60,159,38.8,26,Chest Pain,High
+32,73,124,39.9,28,Fatigue,High
+70,69,160,39.9,29,Fatigue,High
+45,70,152,36.5,14,Cough,High
+61,100,132,36.8,16,Chest Pain,High
+20,98,102,37.5,24,Cough,Medium
+33,97,110,37.0,20,Fatigue,Low
+63,66,131,37.8,28,Fever,Medium
+23,130,108,38.5,18,Fatigue,High
+56,69,121,40.1,19,Headache,High
+60,124,150,39.3,18,Nausea,High
+63,88,120,37.7,24,Chest Pain,High
+72,85,160,37.3,24,Fatigue,High
+20,122,160,40.2,29,Fatigue,High
+72,70,108,36.0,19,Fever,Medium
+34,77,109,36.1,28,Headache,Low
+50,83,146,37.0,14,Fatigue,Low
+57,114,110,36.7,18,Nausea,High
+57,99,111,38.3,19,Headache,Low
+73,117,116,39.4,26,Fatigue,High
+23,82,129,40.3,12,Shortness of Breath,High
+37,64,115,36.7,15,Chest Pain,High
+34,60,159,36.9,16,Headache,High
+50,83,151,37.9,28,Headache,High
+40,79,135,40.0,15,Chest Pain,High
+35,99,106,37.0,22,Headache,Low
+64,84,124,39.9,30,Chest Pain,High
+59,94,141,36.3,26,Cough,Medium
+40,71,147,39.8,28,Fatigue,High
+71,95,127,37.4,25,Nausea,Medium
+44,94,130,36.1,21,Headache,Low
+54,130,148,39.0,18,Chest Pain,High
+55,85,156,38.5,23,Shortness of Breath,High
+30,68,109,39.7,16,Headache,High
+40,100,129,39.9,14,Headache,High
+50,67,149,40.1,16,Chest Pain,High
+66,104,150,39.0,12,Fever,Medium
+59,67,144,39.6,26,Fatigue,High
+27,93,125,38.6,18,Cough,Medium
+54,94,120,36.1,25,Fever,Medium
+71,89,120,36.8,25,Fever,Medium
+70,114,109,38.7,21,Fatigue,High
+22,120,144,37.9,21,Fever,High
+49,112,154,37.7,19,Headache,High
+59,71,101,39.9,12,Cough,High
+43,99,147,36.4,23,Cough,Medium
+39,90,150,36.2,12,Shortness of Breath,High
+44,81,154,40.2,13,Headache,High
+62,101,120,37.8,15,Cough,Medium
+69,62,129,38.6,25,Shortness of Breath,High
+80,98,133,37.2,21,Headache,Low
+33,67,153,39.0,27,Nausea,High
+40,73,129,36.1,18,Cough,Medium
+33,87,134,37.3,14,Headache,Low
+22,120,125,37.9,28,Fatigue,High
+47,106,150,39.1,17,Fever,High
+67,113,118,38.7,23,Nausea,High
+39,121,122,36.5,26,Fatigue,High
+40,82,125,39.6,24,Cough,High
+46,109,103,38.8,23,Fatigue,Low
+60,106,124,37.7,12,Fatigue,Low
+46,110,109,37.2,22,Shortness of Breath,High
+26,72,130,38.2,15,Nausea,Medium
+66,108,147,37.4,28,Nausea,Medium
+70,78,156,37.1,14,Shortness of Breath,High
+22,82,100,36.8,22,Fever,Medium
+52,64,129,36.6,23,Headache,Low
+20,108,151,38.5,17,Nausea,High
+24,69,114,38.9,14,Fatigue,Low
+30,116,146,36.2,26,Fatigue,High
+36,118,119,39.5,25,Fatigue,High
+60,114,102,38.1,16,Nausea,High
+28,77,160,39.9,30,Cough,High
+20,80,112,38.3,17,Nausea,Medium
+72,104,152,37.6,30,Cough,High
+43,76,143,36.2,26,Headache,Low
+69,127,140,36.5,28,Shortness of Breath,High
+45,74,102,40.0,27,Shortness of Breath,High
+71,104,141,40.2,13,Nausea,High
+25,126,133,36.3,14,Fatigue,High
+69,93,130,39.0,22,Headache,Low
+30,92,125,39.7,30,Fatigue,High
+35,129,136,37.1,18,Fever,High
+76,61,108,38.8,16,Headache,Low
+63,88,147,37.0,23,Fatigue,Low
+26,99,115,40.4,21,Headache,High
+20,77,155,37.1,12,Fever,High
+66,82,140,38.4,14,Cough,Medium
+52,63,130,37.1,29,Headache,Low
+49,76,151,39.3,30,Shortness of Breath,High
+59,79,119,37.4,19,Fatigue,Low
+26,99,105,39.5,28,Fatigue,High
+49,125,145,38.2,26,Nausea,High
+22,118,152,38.0,24,Chest Pain,High
+66,108,137,38.0,29,Fatigue,Low
+50,105,103,36.6,17,Fatigue,Low
+71,109,120,36.7,17,Headache,Low
+71,93,150,38.4,20,Shortness of Breath,High
+35,122,123,37.5,24,Fever,High
+38,113,106,37.8,13,Nausea,High
+32,77,115,37.5,21,Fever,Medium
+45,93,118,36.9,20,Fatigue,Low
+54,92,132,38.0,21,Fatigue,Low
+72,80,145,39.7,24,Shortness of Breath,High
+60,74,133,38.5,22,Fatigue,Low
+62,61,112,37.4,18,Fatigue,Low
+26,125,113,39.4,29,Fatigue,High
+48,118,132,38.3,15,Chest Pain,High
+79,110,117,38.2,30,Fever,Medium
+51,63,141,37.1,19,Nausea,Medium
+34,62,109,37.0,17,Fatigue,Low
+66,70,122,38.8,22,Chest Pain,High
+30,83,159,37.4,28,Shortness of Breath,High
+78,119,115,40.0,14,Fatigue,High
+55,105,139,40.3,20,Nausea,High
+36,62,128,38.4,24,Cough,Medium
+38,94,105,37.2,18,Shortness of Breath,High
+53,78,129,38.4,25,Chest Pain,High
+56,69,142,39.5,16,Cough,High
+51,61,151,39.8,12,Headache,High
+23,128,140,38.8,28,Fatigue,High
+27,80,142,37.7,30,Fatigue,Low
+26,65,137,38.8,16,Fever,Medium
+68,87,130,38.2,26,Fatigue,Low
+59,71,140,37.4,17,Fatigue,Low
+58,115,102,36.3,27,Chest Pain,High
+67,68,117,36.8,23,Fever,Medium
+40,121,152,39.0,28,Shortness of Breath,High
+59,93,127,39.6,14,Shortness of Breath,High
+48,79,105,39.6,15,Headache,High
+26,66,137,40.3,21,Chest Pain,High
+41,90,152,39.7,20,Cough,High
+53,66,151,38.6,20,Cough,High
+61,80,138,37.3,24,Fever,Medium
+20,109,113,38.8,28,Cough,Medium
+74,88,114,37.8,15,Fatigue,Low
+59,66,146,39.1,28,Headache,High
+29,124,149,40.0,21,Headache,High
+33,113,120,40.1,23,Nausea,High
+64,95,133,37.5,30,Nausea,Medium
+72,61,108,37.9,29,Headache,Low
+44,82,134,39.3,23,Fatigue,High
+56,97,113,38.3,14,Fatigue,Low
+60,89,115,40.3,21,Chest Pain,High
+37,70,100,37.5,17,Cough,Medium
+21,92,157,38.8,18,Chest Pain,High
+32,78,160,38.1,20,Headache,High
+58,71,106,40.2,24,Nausea,High
+24,117,144,36.3,24,Nausea,High
+47,110,138,39.8,26,Shortness of Breath,High
+38,63,104,39.3,30,Cough,High
+70,69,150,36.4,25,Chest Pain,High
+70,100,111,38.4,25,Cough,Medium
+74,118,138,36.8,16,Cough,High
+49,124,144,37.7,16,Fatigue,High
+63,121,141,37.2,12,Fever,High
+32,104,138,38.1,20,Nausea,Medium
+23,105,112,40.3,26,Headache,High
+45,66,117,36.3,21,Fever,Medium
+46,70,113,36.2,29,Fatigue,Low
+78,68,105,38.8,16,Fatigue,Low
+74,119,144,38.9,25,Fatigue,High
+61,84,158,38.8,29,Shortness of Breath,High
+59,109,148,39.9,20,Cough,High
+63,110,158,37.1,27,Cough,High
+24,86,125,36.4,24,Fatigue,Low
+52,82,153,37.0,13,Headache,High
+31,123,104,38.4,14,Cough,High
+39,61,126,38.7,28,Headache,Low
+76,129,107,37.0,12,Fever,High
+32,61,126,38.6,16,Fever,Medium
+64,120,159,37.7,17,Shortness of Breath,High
+33,81,117,36.6,29,Headache,Low
+42,65,106,38.5,20,Chest Pain,High
+46,67,108,39.7,21,Nausea,High
+59,70,131,39.2,13,Nausea,High
+43,115,147,38.7,18,Fever,High
+64,94,115,36.7,30,Nausea,Medium
+78,100,100,38.2,23,Cough,Medium
+35,111,104,39.5,19,Headache,High
+60,122,106,37.8,27,Chest Pain,High
+43,82,144,36.0,18,Nausea,Medium
+42,103,120,40.3,15,Headache,High
+60,105,144,39.7,22,Fever,High
+34,82,133,40.3,30,Shortness of Breath,High
+49,105,146,37.0,15,Headache,Low
+66,113,143,40.3,28,Cough,High
+37,121,100,40.3,17,Fatigue,High
+75,70,138,36.2,29,Shortness of Breath,High
+26,95,145,38.7,30,Fatigue,Low
+53,93,147,38.5,21,Fever,Medium
+20,109,109,38.1,26,Shortness of Breath,High
+40,99,140,37.5,20,Fatigue,Low
+28,97,123,38.4,24,Headache,Low
+52,106,109,37.5,19,Fever,Medium
+33,99,159,36.3,15,Shortness of Breath,High
+64,108,110,39.1,23,Fatigue,High
+27,113,101,39.0,15,Chest Pain,High
+26,127,124,39.6,28,Chest Pain,High
+30,73,158,37.1,28,Fatigue,High
+20,95,124,39.8,28,Cough,High
+71,89,153,40.1,16,Chest Pain,High
+70,73,113,36.5,14,Nausea,Medium
+21,104,136,39.8,13,Fatigue,High
+62,127,137,36.1,18,Cough,High
+67,74,151,38.0,13,Shortness of Breath,High
+45,112,123,40.1,12,Cough,High
+53,114,119,37.7,18,Nausea,High
+36,70,134,38.9,17,Fatigue,Low
+34,100,158,38.0,25,Nausea,High
