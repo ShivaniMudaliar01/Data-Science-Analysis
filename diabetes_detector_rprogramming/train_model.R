@@ -1,4 +1,4 @@
-setwd("D:/Shivani/MAHE/rdir/disease_risk_predictor")
+setwd("add/your/path/to/the/folder")
 # train_model.R
 library(tidyverse)
 library(caret)
