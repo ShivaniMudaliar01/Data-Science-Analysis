@@ -1,0 +1,21 @@
+Q: what is Data Science
+A: Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data. It is related to data mining, machine learning and big data. Data science is a "concept to unify statistics, data analysis and their related methods" in order to "understand and analyze actual phenomena" with data.
+
+Q: Data Science use cases?
+A: fraud detection, recommendation systems, customer segmentation, sentiment analysis, and predictive maintenance
+
+Q: What is Data Science?
+A: Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data. It is related to data mining, machine learning and big data. Data science is a "concept to unify statistics, data analysis and their related methods" in order to "understand and analyze actual phenomena" with data.
+
+Q: impact on Healthcare?
+A: Helpful
+
+Q: Feature of AI
+A: General AI: Unlike narrow AI, which is task-specific, general AI aims to replicate human- level cognition across multiple domains. • Explainable AI (XAI): Developing AI systems that can provide transparent and understandable explanations for their decisions. • AI in Climate Science: Leveraging AI to model climate change, optimize energy usage, and develop sustainable solutions. • Human-AI Collaboration: Enhancing productivity and creativity through synergistic chess.
+
+Q: Feature of AI
+A: General AI: Unlike narrow AI, which is task-specific, general AI aims to replicate human- level cognition across multiple domains. • Explainable AI (XAI): Developing AI systems that can provide transparent and understandable explanations for their decisions. • AI in Climate Science: Leveraging AI to model climate change, optimize energy usage, and develop sustainable solutions. • Human-AI Collaboration: Enhancing productivity and creativity through synergistic chess.
+
+Q: Feature of AI
+A: General AI: Unlike narrow AI, which is task-specific, general AI aims to replicate human- level cognition across multiple domains. • Explainable AI (XAI): Developing AI systems that can provide transparent and understandable explanations for their decisions. • AI in Climate Science: Leveraging AI to model climate change, optimize energy usage, and develop sustainable solutions. • Human-AI Collaboration: Enhancing productivity and creativity through synergistic chess.
+
