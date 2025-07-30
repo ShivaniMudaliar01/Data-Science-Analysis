@@ -8,7 +8,7 @@ This project allows you to ask natural language questions about a PDF document. 
 ## 📂 Project Structure
 rag_project/
 
-├── documents/
+├── data/
 │ └── your_doc.pdf # Your source PDF document
 
 ├── faiss_index/ # Auto-generated FAISS vector store
