@@ -6,20 +6,27 @@ This project allows you to ask natural language questions about a PDF document. 
 ---
 
 ## 📂 Project Structure
+
 rag_project/
 
+├── main.py                        ← Entry point to run RAG
+
+├── config.py                      ← Constants and configuration
+
+├── loader.py                      ← Loads and splits documents
+
+├── embedder.py                    ← Embeds and stores chunks using FAISS
+
+├── qa_chain.py                    ← Builds and runs the RAG QA chain
+
 ├── data/
-│ └── your_doc.pdf # Your source PDF document
+│   └── your_doc.pdf               ← Your input document(s)
 
-├── faiss_index/ # Auto-generated FAISS vector store
+├── faiss_index/                   ← Saved vector store
 
-├── main.py # Main script to run the RAG pipeline
+├── chat_history                   ← Stores chat history (Auto Generated)
 
-├── qa_chain.py # Contains RAG pipeline logic
-
-├── chat_history.txt # Optional output log for Q&A
-
-└── requirements.txt # All required packages
+└── requirements.txt               ← Python dependencies
 
 
 ---
